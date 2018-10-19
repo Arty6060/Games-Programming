@@ -1,0 +1,11 @@
+s=input ("You find yourself surrounded in a dark aura. Seconds pass and the aura dissipates, leaving you in a barren hall with a singular, large door. The entire hall is constructed with chitin, metal and rope, resulting in a twisted landscape. 2 long tables of bone and steel sit in front you, pointing towards the door in front of you. Your movement is unrestricted. You're holding a Rifle and have 2 slightly weighted pouches attached to your waist.")
+print("You can check your rifle, your pouches, the tables and the doors.")
+x=0
+if (len(s=("Check Rifle"))
+    print("Your rifle is a Mida Multi-Tool, a state of the art Scout Rifle with a radar, high-accuracy sextant and SVD 2x scope.")
+elif (len(s=("Check Pouches"))
+    print ("Inside your pouches are 2 throwing knives, a green coin and a laser pointer. No idea what the laser pointer's doing there to be honest.")
+elif (len(s=("Check Equipment"))
+    print ("Inside your pouches are 2 throwing knives, a green coin and a laser pointer. No idea what the laser pointer's doing there to be honest.")
+elif (len(s=("Check Tables"))
+    print ("The tables have various tupperware and cutlery strewn about them, all decaying and rotten. You see a weird circular object. It looks like it would fit with the runes on the door in front of you")
